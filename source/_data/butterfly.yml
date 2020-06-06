@@ -49,7 +49,7 @@ copy:
 # ---------------
 social:
   fa fa-github: https://github.com/circXsora || Github
-  fa fa-envelope: circXsora:circXsora@outlook.com || Email
+  fa fa-envelope: circXsora@outlook.com || Email
 
 ####    search    ####
 # Algolia search
