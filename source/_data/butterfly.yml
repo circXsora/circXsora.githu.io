@@ -144,6 +144,31 @@ cover:
   # 當沒有設置cover時，默認的封面顯示
   default_cover:
     - /img/cover_img.jpg
+    - /img/cover_img_2.jpg
+    - /img/cover_img_3.jpg
+    - /img/cover_img_4.jpg
+    - /img/cover_img_5.jpg
+    - /img/cover_img_6.jpg
+    - /img/cover_img_7.jpg
+    - /img/cover_img_8.jpg
+    - /img/cover_img_9.jpg
+    - /img/cover_img_10.jpg
+    - /img/cover_img_11.jpg
+    - /img/cover_img_12.jpg
+    - /img/cover_img_13.jpg
+    - /img/cover_img_14.jpg
+    - /img/cover_img_15.jpg
+    - /img/cover_img_16.jpg
+    - /img/cover_img_17.jpg
+    - /img/cover_img_18.jpg
+    - /img/cover_img_19.jpg
+    - /img/cover_img_20.jpg
+    - /img/cover_img_21.jpg
+    - /img/cover_img_22.jpg
+    - /img/cover_img_23.jpg
+    - /img/cover_img_24.jpg
+    - /img/cover_img_25.jpg
+    - /img/cover_img_26.jpg
 
 # if the photo link cannot connect,it will show that
 lodding_bg:

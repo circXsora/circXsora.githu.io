@@ -60,7 +60,11 @@ hexo d
 
 ### Delete your post
 
+```bash
 delete source/_posts/your post.md
+```
+
+### 一键启动
 
 ``` bash
 hexo clean && hexo g && hexo s
