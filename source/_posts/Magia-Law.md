@@ -51,6 +51,6 @@ public int Excute(string actionName){
 常量：全大写+下划线命名
 
 ```c#
-const int MAX_Health = 10;
+const int MAX_HEALTH = 10;
 ```
 
